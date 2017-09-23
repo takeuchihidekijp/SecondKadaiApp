@@ -46,9 +46,6 @@
                             </textField>
                         </subviews>
                     </view>
-                    <connections>
-                        <outlet property="Label" destination="dfb-Rh-6ig" id="CIY-uX-n62"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
