@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    @IBOutlet weak var name_set: UITextField!
     
 
     @IBAction func unwind(_ segue: UIStoryboardSegue){
